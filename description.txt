@@ -1,0 +1,1 @@
+A Python-based Health Analyzer that calculates Body Mass Index (BMI) using user-provided height and weight. It provides instant health status classification such as Underweight, Normal, Overweight, or Obese. Designed with numpy,Pandas and tkinter as a simple and beginner-friendly tool to promote health awareness and enhance Python programming skills.
